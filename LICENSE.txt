@@ -1,4 +1,4 @@
-Cybersecurity Certifications dataset (cyber_certs.yaml)
+Cybersecurity Certifications dataset (cyber-certs.json)
 Copyright (c) InfoSec Campus (https://infoseccampus.com)
 
 Licensed under the Creative Commons Attribution-ShareAlike 4.0
