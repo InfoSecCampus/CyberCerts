@@ -1,0 +1,55 @@
+Cybersecurity Certifications dataset (cyber_certs.yaml)
+Copyright (c) InfoSec Campus (https://infoseccampus.com)
+
+Licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License (CC BY-SA 4.0).
+
+You are free to:
+
+  Share  -- copy and redistribute the material in any medium or format
+  Adapt  -- remix, transform, and build upon the material
+
+for any purpose, even commercially, under the following terms:
+
+  Attribution   You must give appropriate credit to InfoSec Campus,
+                provide a link to this license, and indicate if changes
+                were made. You may do so in any reasonable manner, but
+                not in any way that suggests InfoSec Campus endorses you
+                or your use.
+
+  ShareAlike    If you remix, transform, or build upon the material, you
+                must distribute your contributions under the same
+                license as the original.
+
+  No additional restrictions   You may not apply legal terms or
+                technological measures that legally restrict others from
+                doing anything the license permits.
+
+No warranties are given. The license may not give you all of the
+permissions necessary for your intended use -- for example, other
+rights such as publicity, privacy, or moral rights may limit how you
+use the material.
+
+Full legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by-sa/4.0/
+
+--------------------------------------------------------------------------
+
+Attribution notice
+
+This dataset was inspired by Paul Jerimy's Security Certification Roadmap
+(https://pauljerimy.com/security-certification-roadmap/), also licensed
+under CC BY-SA 4.0. The domain/level taxonomy and the idea of one page
+mapping the whole certification market are his. The entries in this
+file are InfoSec Campus's own original research (hand-verified against
+each issuer's own page), not copied from his chart.
+
+--------------------------------------------------------------------------
+
+Contributions
+
+By submitting a pull request to this repository, you agree to license
+your contribution under these same terms (CC BY-SA 4.0), and you confirm
+that the information you are adding was verified against the issuing
+organisation's own page and is not copied from another dataset that
+carries an incompatible license.
