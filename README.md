@@ -10,7 +10,7 @@ Licensed under **[CC BY-SA 4.0](LICENSE.txt)**.
 
 ## The file
 
-All data lives in [`cyber_certs.yaml`](cyber_certs.yaml):
+All data lives in [`cyber-certs/cyber_certs.yaml`](cyber_certs.yaml):
 
 ```yaml
 certs:
