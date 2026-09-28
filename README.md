@@ -1,6 +1,6 @@
-# Cyber Certs
+# Cybersecurity Certification Roadmap
 
-A community-maintained list of cybersecurity certifications — cost, issuer, official link, security domain and skill level for each one.
+A curated list of cybersecurity certifications — cost, issuer, official link, security domain and skill level for each one.
 
 Curated by [InfoSec Campus](https://infoseccampus.com) and published at [infoseccampus.com/cyber-certs](https://infoseccampus.com/cyber-certs/). This works is inspired by Paul Jerimy's [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) into one filterable page.
 
