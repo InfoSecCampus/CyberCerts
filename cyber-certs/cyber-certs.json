@@ -6,11 +6,11 @@
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
   "original_count": 481,
-  "added_count": 45,
+  "added_count": 55,
   "free_count": 8,
-  "added_curator": "InfoSec Campus",
+  "added_curator": "Infosec Campus",
   "added_curator_url": "https://infoseccampus.com",
-  "added_last_updated": "2026-09-24",
+  "added_last_updated": "2026-09-28",
   "added_license": "CC BY-SA 4.0",
   "added_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
   "added_inspired_by": {
@@ -1910,6 +1910,36 @@
    "price_type": "paid",
    "topics": [
     "ai",
+    "cloud"
+   ]
+  },
+  {
+   "name": "CCNSE",
+   "full": "Certified Cloud Native Security Expert (Practical DevSecOps)",
+   "details": [
+    "$999 (course + one attempt)"
+   ],
+   "url": "https://www.practical-devsecops.com/certified-cloud-native-security-expert/",
+   "domain": "architecture",
+   "level": "intermediate",
+   "added": true,
+   "price_type": "paid",
+   "topics": [
+    "cloud"
+   ]
+  },
+  {
+   "name": "CTMP",
+   "full": "Certified Threat Modeling Professional (Practical DevSecOps)",
+   "details": [
+    "$899 (course + one attempt)"
+   ],
+   "url": "https://www.practical-devsecops.com/certified-threat-modeling-professional/",
+   "domain": "architecture",
+   "level": "intermediate",
+   "added": true,
+   "price_type": "paid",
+   "topics": [
     "cloud"
    ]
   },
@@ -4847,6 +4877,37 @@
    ]
   },
   {
+   "name": "CDE",
+   "full": "Certified DevSecOps Expert (Practical DevSecOps)",
+   "details": [
+    "$1,199 (course + one attempt)"
+   ],
+   "url": "https://www.practical-devsecops.com/certified-devsecops-expert/",
+   "domain": "software",
+   "level": "expert",
+   "added": true,
+   "price_type": "paid",
+   "topics": [
+    "cloud"
+   ]
+  },
+  {
+   "name": "CAASE",
+   "full": "Certified Agentic AI Security Expert (Practical DevSecOps)",
+   "details": [
+    "$899 (course + one attempt)"
+   ],
+   "url": "https://www.practical-devsecops.com/certified-agentic-ai-security-expert/",
+   "domain": "software",
+   "level": "expert",
+   "added": true,
+   "price_type": "paid",
+   "topics": [
+    "ai",
+    "cloud"
+   ]
+  },
+  {
    "name": "GWEB",
    "full": "GIAC Certified Web Application Defender",
    "details": [
@@ -5009,6 +5070,96 @@
    "price_type": "paid",
    "topics": [
     "ai"
+   ]
+  },
+  {
+   "name": "CDP",
+   "full": "Certified DevSecOps Professional (Practical DevSecOps)",
+   "details": [
+    "$899 (course + one attempt)"
+   ],
+   "url": "https://www.practical-devsecops.com/certified-devsecops-professional/",
+   "domain": "software",
+   "level": "intermediate",
+   "added": true,
+   "price_type": "paid",
+   "topics": [
+    "cloud"
+   ]
+  },
+  {
+   "name": "CCSE",
+   "full": "Certified Container Security Expert (Practical DevSecOps)",
+   "details": [
+    "$599 (course + one attempt)"
+   ],
+   "url": "https://www.practical-devsecops.com/certified-container-security-expert/",
+   "domain": "software",
+   "level": "intermediate",
+   "added": true,
+   "price_type": "paid",
+   "topics": [
+    "cloud"
+   ]
+  },
+  {
+   "name": "CMCPSE",
+   "full": "Certified MCP Security Expert (Practical DevSecOps)",
+   "details": [
+    "$699 (course + one attempt)"
+   ],
+   "url": "https://www.practical-devsecops.com/certified-mcp-security-expert/",
+   "domain": "software",
+   "level": "intermediate",
+   "added": true,
+   "price_type": "paid",
+   "topics": [
+    "cloud"
+   ]
+  },
+  {
+   "name": "CASP",
+   "full": "Certified API Security Professional (Practical DevSecOps)",
+   "details": [
+    "$899 (course + one attempt)"
+   ],
+   "url": "https://www.practical-devsecops.com/certified-api-security-professional/",
+   "domain": "software",
+   "level": "intermediate",
+   "added": true,
+   "price_type": "paid",
+   "topics": [
+    "cloud"
+   ]
+  },
+  {
+   "name": "CSSE",
+   "full": "Certified Software Supply Chain Security Expert (Practical DevSecOps)",
+   "details": [
+    "$799 (course + one attempt)"
+   ],
+   "url": "https://www.practical-devsecops.com/certified-software-supply-chain-security-expert/",
+   "domain": "software",
+   "level": "intermediate",
+   "added": true,
+   "price_type": "paid",
+   "topics": [
+    "cloud"
+   ]
+  },
+  {
+   "name": "CSC",
+   "full": "Certified Security Champion (Practical DevSecOps)",
+   "details": [
+    "$599 (course + one attempt)"
+   ],
+   "url": "https://www.practical-devsecops.com/certified-security-champion/",
+   "domain": "software",
+   "level": "intermediate",
+   "added": true,
+   "price_type": "paid",
+   "topics": [
+    "cloud"
    ]
   },
   {
