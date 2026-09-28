@@ -2,9 +2,7 @@
 
 A community-maintained list of cybersecurity certifications — cost, issuer, official link, security domain and skill level for each one.
 
-Curated by [InfoSec Campus](https://infoseccampus.com) and published at [infoseccampus.com/cyber-certs](https://infoseccampus.com/cyber-certs/), where it's combined with Paul Jerimy's [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) into one filterable page.
-
-Inspired by Paul Jerimy's roadmap — the domain/level taxonomy and the idea of one page mapping the whole certification market are his — but every entry here is original research, verified against each issuer's own page.
+Curated by [InfoSec Campus](https://infoseccampus.com) and published at [infoseccampus.com/cyber-certs](https://infoseccampus.com/cyber-certs/). This works is inspired by Paul Jerimy's [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) into one filterable page.
 
 Licensed under **[CC BY-SA 4.0](LICENSE.txt)**.
 
@@ -41,17 +39,6 @@ All data lives in [`cyber-certs/cyber-certs.json`](cyber-certs/cyber-certs.json)
 | `note`   | ✅ | One short, useful sentence (prerequisite, validity period, what's included), or `null`. |
 
 Every field must be present in every entry — use JSON's `null` for `team`/`note` when they don't apply, rather than leaving the key out.
-
-**Valid `domain` values** (from Paul Jerimy's 8 CISSP-style domains):
-
-- Communication and Network Security
-- Identity and Access Management
-- Security Architecture and Engineering
-- Asset Security
-- Security and Risk Management
-- Security Assessment and Testing
-- Software Security
-- Security Operations
 
 ## How to contribute
 
